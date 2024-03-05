@@ -1,5 +1,3 @@
-![Terkey Termux Key](screenshot.jpg)
-
 # Terkey
 Is a tool for add keys to your Termux app.
 
@@ -8,7 +6,7 @@ Is a tool for add keys to your Termux app.
 * `$ pkg update && pkg upgrade`
 * `$ pkg install python`
 * `$ pkg install git`
-* `$ git clone https://github.com/boniboano/terkey`
+* `$ git clone https://github.com/boano96/terkey`
 * `$ cd terkey`
 * `$ python terkey.py`
 
