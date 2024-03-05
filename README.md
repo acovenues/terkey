@@ -6,7 +6,7 @@ Is a tool for add keys to your Termux app.
 * `$ pkg update && pkg upgrade`
 * `$ pkg install python`
 * `$ pkg install git`
-* `$ git clone https://github.com/boano96/terkey`
+* `$ git clone https://github.com/acovenues/terkey`
 * `$ cd terkey`
 * `$ python terkey.py`
 
