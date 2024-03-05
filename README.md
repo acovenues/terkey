@@ -1,4 +1,4 @@
-# Terkey onysbvt
+# Terkey Boni96
 Is a tool for add keys to your Termux app.
 
 ## How to install
